@@ -1230,8 +1230,7 @@ namespace SrcChess2 {
         /// <param name="eNextMoveColor">       Color starting to play</param>
         /// <param name="strWhitePlayerName">   Name of the player playing white pieces</param>
         /// <param name="strBlackPlayerName">   Name of the player playing black pieces</param>
-        /// <param name="eWhitePlayerType">     Type of player playing white pieces</param>
-        /// <param name="eBlackPlayerType">     Type of player playing black pieces</param>
+        
         /// <param name="spanPlayerWhite">      Timer for white</param>
         /// <param name="spanPlayerBlack">      Timer for black</param>
         public virtual void CreateGameFromMove(ChessBoard           chessBoardStarting,

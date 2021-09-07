@@ -136,8 +136,7 @@ namespace SrcChess2 {
 
        
         private void AddCurrentMove() {
-            MoveItem            moveItem;
-            string              strMove;
+            
             string              strMoveIndex;
             int                 iMoveCount;
             int                 iItemCount;

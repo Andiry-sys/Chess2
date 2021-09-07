@@ -319,7 +319,7 @@ namespace SrcChess2 {
         /// <param name="arrKey">       Current key</param>
         /// <param name="iPosIndex">    Current position in the list</param>
         /// <param name="iDepth">       Current depth.</param>
-        /// <param name="callback">     Callback to call to show progress</param>
+
         /// <param name="cookie">       Cookie for callback</param>
         /// <returns>
         /// Nb of entries created
@@ -370,7 +370,7 @@ namespace SrcChess2 {
         /// </summary>
         /// <param name="arrMoveList">      Array of move list</param>
         /// <param name="iMaxDepth">        Maximum depth of the moves.</param>
-        /// <param name="callback">         Callback to call to show progress</param>
+       
         /// <param name="cookie">           Cookie for callback</param>
         /// <returns>
         /// Nb of entries created
